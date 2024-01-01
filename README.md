@@ -1,8 +1,8 @@
 # Java-DSA-Problems 
 ### Road-Map
 ## Analysis of Algorithm - ✅ 
-## Mathematics - 🏃
-## Bit Manipulation
+## Mathematics - ✅
+## Bit Manipulation - 🏃
 ## Recursion
 ## Arrays
 ## Searching
