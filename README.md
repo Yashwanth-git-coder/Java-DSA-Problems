@@ -2,8 +2,8 @@
 ### Road-Map
 ## Analysis of Algorithm - ✅ 
 ## Mathematics - ✅
-## Bit Manipulation - 🏃
-## Recursion
+## Bit Manipulation - ✅
+## Recursion - 🏃
 ## Arrays
 ## Searching
 ## Sorting
