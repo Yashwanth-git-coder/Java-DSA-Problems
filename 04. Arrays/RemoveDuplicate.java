@@ -1,3 +1,4 @@
+
 public class RemoveDuplicate {
 
     static int RemoveDuplicat(int arr[], int n){
@@ -12,6 +13,7 @@ public class RemoveDuplicate {
     }
     public static void main(String[] args){
         int arr[] = {2,2,3,3,3,9,9}, n = arr.length;
+      
         System.out.println("Before Remove Duplicating");
         for(int i = 0 ; i < n ; i++){
             System.out.print(arr[i]+ " ");
@@ -27,3 +29,10 @@ public class RemoveDuplicate {
         System.out.println(" ");
     }
 }
+
+
+
+
+
+// Scanner as = new Scanner(System.in);
+// int nr = as.nextInt();
