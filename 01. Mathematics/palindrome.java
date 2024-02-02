@@ -1,7 +1,4 @@
-
-
 public class palindrome {
-
     public static boolean Palindrome(int n){
         int reverse = 0;
         int temp = n;
