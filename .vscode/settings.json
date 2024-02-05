@@ -1,3 +1,10 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "04. Arrays",
+        "03. Recursion",
+        "02. Bit_manipulation",
+        "01. Mathematics",
+        "05. Searching"
+    ]
 }

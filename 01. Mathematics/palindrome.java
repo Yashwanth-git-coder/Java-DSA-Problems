@@ -1,5 +1,5 @@
 public class palindrome {
-    public static boolean Palindrome(int n){
+    public static boolean Palindromes(int n){
         int reverse = 0;
         int temp = n;
         while (temp != 0) {
@@ -10,7 +10,7 @@ public class palindrome {
     }
     public static void main(String[] args){
         int number = 2002;
-        if(Palindrome(number) == true){
+        if(Palindromes(number) == true){
             System.out.println("It's Palindrome");
         }
         else{
