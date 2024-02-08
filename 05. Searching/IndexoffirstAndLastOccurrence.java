@@ -1,4 +1,4 @@
-public class IndexoffirstOccurrence {
+public class IndexoffirstAndLastOccurrence {
 
     static int first(int arr[], int find,  int n){
         int low = 0, high = n - 1, res = -1;
