@@ -6,12 +6,17 @@ public class Largest_Element {
         int i = 0;
 
         int max = arr[0];
+        int sma = arr[0];
 
         for(i = 0 ; i < arr.length ; i++){
             if(arr[i] > max){
                 max = arr[i];
             }
+            if(arr[i] < sma){
+                sma = arr[i];
+            }
         }
+        System.out.println("Smallest in given array " + sma);
         return max;
     }
 
