@@ -25,8 +25,22 @@ public class maxSubArray_prefix {
         System.out.println("Max SubArray: " + maxSum);
     }
 
+    public static void Kadans(int number[]){
+        int cursum = 0;
+        int maxsum = Integer.MIN_VALUE;
+
+        for(int i = 0 ; i < number.length ; i++){
+            cursum = cursum + number[i];
+            if(cursum < 0){
+                cursum = 0;
+            }
+            maxsum = Math.max(cursum, maxsum);
+        }
+        System.out.println("Max Sum :" + maxsum);
+    }
+
     public static void main(String args[]) {
         int number[] = {2, 4, 6, 8, 10 };
-        Max_Subarray(number);
+        Kadans(number);
     }
 }
