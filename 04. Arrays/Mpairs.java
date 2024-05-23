@@ -1,4 +1,4 @@
-public class pairs {
+public class Mpairs {
     public static void GetPairs(int arr[]){
         int total_pairs = 0;
         for(int i = 0 ; i < arr.length ; i++){

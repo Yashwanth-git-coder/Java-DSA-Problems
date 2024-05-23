@@ -1,4 +1,4 @@
-public class trapping_raining {
+public class Utrapping_raining {
     public static int Trapping_Rain(int height[]){
         int n = height.length - 1;
 

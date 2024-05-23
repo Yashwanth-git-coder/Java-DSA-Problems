@@ -1,5 +1,5 @@
 
-public class RemoveDuplicate {
+public class RRemoveDuplicate {
 
     static int RemoveDuplicat(int arr[], int n){
         int res = 1;

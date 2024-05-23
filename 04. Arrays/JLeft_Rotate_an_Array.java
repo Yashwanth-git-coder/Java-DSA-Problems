@@ -1,4 +1,4 @@
-public class Left_Rotate_an_Array {
+public class JLeft_Rotate_an_Array {
 
     static void leftRotate(int a[], int n) {
         int temp = a[0];

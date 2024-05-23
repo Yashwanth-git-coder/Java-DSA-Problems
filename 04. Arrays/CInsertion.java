@@ -1,4 +1,4 @@
-public class Insertion {
+public class CInsertion {
 
     static int insert(int[] arr, int n, int pos, int cap, int x) {
         if (cap == n) {

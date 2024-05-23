@@ -1,4 +1,4 @@
-public class max_subarray {
+public class Omax_subarray {
     public static void Max_Subarray(int number[]){
         int currSum = 0;
         int maxSum = Integer.MIN_VALUE;

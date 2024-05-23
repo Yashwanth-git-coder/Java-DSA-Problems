@@ -1,4 +1,4 @@
-public class Deletion {
+public class DDeletion {
 
     static int DeleteEle(int arr[], int n, int x){
         int i = 0;

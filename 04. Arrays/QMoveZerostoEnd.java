@@ -1,5 +1,5 @@
 
-public class MoveZerostoEnd {
+public class QMoveZerostoEnd {
 
     // function to move all zeroes at
     // the end of array

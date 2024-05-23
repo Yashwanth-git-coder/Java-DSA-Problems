@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Prifix__Sum {
+public class KPrifix__Sum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

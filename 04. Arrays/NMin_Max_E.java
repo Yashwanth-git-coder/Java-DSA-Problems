@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Min_Max_E {
+public class NMin_Max_E {
 
     static int[] getMinMax(int arr[], int n){
         int[] minmax = new int[2];

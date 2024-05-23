@@ -1,4 +1,4 @@
-public class palindrome {
+public class palindrome1 {
     public static boolean Palindromes(int n){
         int reverse = 0;
         int temp = n;

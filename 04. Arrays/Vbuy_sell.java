@@ -1,4 +1,4 @@
-public class buy_sell {
+public class Vbuy_sell {
     public static int Buy_Sell_Stock(int number[]){
         int buyprice = Integer.MAX_VALUE;
         int maxprofit = 0;

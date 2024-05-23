@@ -1,6 +1,6 @@
 // JAVA Code for Find Second largest
 // element in an array
-public class Second_Largest_Element {
+public class SSecond_Largest_Element {
 
     /*
      * Function to print the second largest

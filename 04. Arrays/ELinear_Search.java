@@ -1,4 +1,4 @@
-public class Linear_Search {
+public class ELinear_Search {
     public static int findElement(int marks[], int key){
         for(int i = 0; i < marks.length; i++){
             if(marks[i] == key){

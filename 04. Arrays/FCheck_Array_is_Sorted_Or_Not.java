@@ -1,4 +1,4 @@
-public class Check_Array_is_Sorted_Or_Not {
+public class FCheck_Array_is_Sorted_Or_Not {
 
     public static boolean Check_Array_Sort(int arr[]){
 

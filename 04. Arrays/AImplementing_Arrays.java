@@ -2,7 +2,7 @@
  /**
   * Implementing_Arrays
   */
- public class Implementing_Arrays {
+ public class AImplementing_Arrays {
  
     public static void main(String[] args){
         // Declaring the array of integer

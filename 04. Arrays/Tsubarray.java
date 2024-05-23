@@ -1,4 +1,4 @@
-public class subarray {
+public class Tsubarray {
     public static void SubArray(int numbers[]){
         int ts = 0;
         int sum = 0;

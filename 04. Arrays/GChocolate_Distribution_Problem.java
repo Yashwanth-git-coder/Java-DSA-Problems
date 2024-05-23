@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Chocolate_Distribution_Problem {
+public class GChocolate_Distribution_Problem {
 
     public static int chocolateDistribution(int arr[], int m) {
         // Check base cases

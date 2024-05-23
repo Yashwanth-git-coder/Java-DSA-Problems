@@ -2,7 +2,7 @@
 
 import java.util.ArrayList;
 
-public class Implementing_ArrayList {
+public class BImplementing_ArrayList {
     public static void main(String[] args){
 
         int n = 5;
