@@ -19,11 +19,11 @@ public class A_creation {
         int matrix[][] = new int[3][3];
         int n = matrix.length; int m = matrix[0].length;
 
-        Scanner in = new Scanner(System.in);
-
-        for(int i = 0; i < n ; i++){
-            for(int j = 0 ; j < m ; j++){
-                matrix[i][j] = in.nextInt();
+        try (Scanner in = new Scanner(System.in)) {
+            for(int i = 0; i < n ; i++){
+                for(int j = 0 ; j < m ; j++){
+                    matrix[i][j] = in.nextInt();
+                }
             }
         }
 
