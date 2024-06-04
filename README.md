@@ -7,10 +7,10 @@
 ## Arrays - ✅
 ## Searching - ✅
 ## Sorting - ✅
-## 2D Arrays - 🏃
-## Divide _ Conquer
+## 2D Arrays - ✅
+## Strings - 🏃
 ## Hashing
-## Strings
+## Divide _ Conquer 
 ## LinkedList
 ## Stack
 ## Queue
