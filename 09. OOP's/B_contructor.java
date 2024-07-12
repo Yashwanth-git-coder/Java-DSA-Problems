@@ -1,7 +1,5 @@
-import java.sql.Struct;
-
-public class B_constructors {
-    public static void main(String[] args){
+public class B_contructor {
+    public static void main(String agrs[]){
         Student s1 = new Student("Yashwanth");
         System.out.println(s1.name);
     }
