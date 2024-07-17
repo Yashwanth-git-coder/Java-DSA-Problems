@@ -1,8 +1,10 @@
 public class D_Inhertence {
     public static void main(String[] args){
-        Fish shark = new Fish();
+        Dog doggy = new Dog();
 
-        shark.eat();
+        doggy.eat();
+        doggy.legs = 5;
+        System.out.println(doggy.legs);
     }
 }
 
@@ -20,10 +22,10 @@ class Animal {
 }
 
 //Derived class
-class Fish extends Animal {
-    int fins;
+class Mammal extends Animal {
+    int legs;
+}
 
-    void swim() {
-        System.out.println("It swims");
-    }
+class Dog extends Mammal {
+    String breed;
 }
