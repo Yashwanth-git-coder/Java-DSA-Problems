@@ -1,17 +1,17 @@
 public class F_Abstraction {
-    public static void main(String[] args){
+    public static void main(String arg[]) {
         Horse h = new Horse();
-        h.walk();
         h.eats();
+        h.walk();
 
         Hen he = new Hen();
-        he.walk();
         he.eats();
+        he.walk();
     }
 }
 
 abstract class Animal {
-    void eats(){
+    void eats() {
         System.out.println("Eats Anything");
     }
 
@@ -20,14 +20,12 @@ abstract class Animal {
 
 class Horse extends Animal {
     void walk() {
-        System.out.println("It has a 4 legs!!");
+        System.out.println("It has 4 legs!!");
     }
 }
 
 class Hen extends Animal {
     void walk() {
-        System.out.println("It ha a2 legs!!");
+        System.out.println("It has 2 legs!!");
     }
 }
-
-
